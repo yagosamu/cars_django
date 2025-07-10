@@ -1,4 +1,4 @@
-# 🚗 Carros
+# 🚗 Cars
 
 A Django project for managing and exploring car data, with AI integration for advanced experiences!  
 Built with best practices, extensibility, and production readiness in mind.
