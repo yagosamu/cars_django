@@ -1,4 +1,4 @@
-# 🚗 Carros
+# 🚗 Cars
 
 A Django project for managing and exploring car data, with AI integration for advanced experiences!  
 Built with best practices, extensibility, and production readiness in mind.
@@ -28,10 +28,10 @@ The project architecture is modular, separating user, vehicle, and AI logic into
 ## 📸 Screenshots
 
 ### Vehicle List
-![Vehicle List](images/ss2.png)
+![Vehicle List](images/ss1.png)
 
 ### Register New Car
-![Home Screen](images/ss1.png)
+![Home Screen](images/ss2.png)
 
 ### Car Details
 ![Car Details](images/ss3.png)
